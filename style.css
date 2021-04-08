@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#i {
+    height: 150px;
+    width: 200px;
+}
+#sliding{
+    padding-top: 150px;
+    padding-bottom: 250px;
+}
+#c{
+    height: 500px;
+    width: 1000px;
+    margin-top: 35px;
+}
